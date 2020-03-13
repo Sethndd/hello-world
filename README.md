@@ -1,2 +1,2 @@
 # hello-world
-idk bro, im just doing hw
+Hola, soy un estudiante de la Licenciatura de Ingeniería de Software en la Universidad Veracruzana.
